@@ -881,6 +881,13 @@
   resolved "https://registry.nlark.com/@types/mime/download/@types/mime-1.3.2.tgz?cache=0&sync_timestamp=1629708336928&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40types%2Fmime%2Fdownload%2F%40types%2Fmime-1.3.2.tgz#93e25bf9ee75fe0fd80b594bc4feb0e862111b5a"
   integrity sha1-k+Jb+e51/g/YC1lLxP6w6GIRG1o=
 
+"@types/node-ip2region@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.nlark.com/@types/node-ip2region/download/@types/node-ip2region-1.0.1.tgz#8e7426aa4d2c64581214cf920eed50dc8ae1ee8e"
+  integrity sha1-jnQmqk0sZFgSFM+SDu1Q3Irh7o4=
+  dependencies:
+    "@types/node" "*"
+
 "@types/node@*", "@types/node@^16.0.0":
   version "16.7.8"
   resolved "https://registry.nlark.com/@types/node/download/@types/node-16.7.8.tgz?cache=0&sync_timestamp=1630353817159&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40types%2Fnode%2Fdownload%2F%40types%2Fnode-16.7.8.tgz#2448be5f24fe6b77114632b6350fcd219334651e"
@@ -3792,6 +3799,11 @@ node-int64@^0.4.0:
   version "0.4.0"
   resolved "https://registry.npm.taobao.org/node-int64/download/node-int64-0.4.0.tgz#87a9065cdb355d3182d8f94ce11188b825c68a3b"
   integrity sha1-h6kGXNs1XTGC2PlM4RGIuCXGijs=
+
+node-ip2region@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.npm.taobao.org/node-ip2region/download/node-ip2region-1.0.2.tgz#8f359a4f44563e6b593848734c225d6f7cc20a32"
+  integrity sha1-jzWaT0RWPmtZOEhzTCJdb3zCCjI=
 
 node-modules-regexp@^1.0.0:
   version "1.0.0"
